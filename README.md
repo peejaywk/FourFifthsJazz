@@ -10,7 +10,7 @@ The name and members of the ensemble have been created solely fot the purpose of
 
 * User Stories
     * As a new user, I want a clear layout so I can easily navigate the site.
-    * As a new user, I want to read about the band and their infuences to *************
+    * As a new user, I want to read about the band and their infuences to get a better understanding of who they are.
     * As a user, I want to see when the band are next playing to I can easily book tickets.
     * As a user, I want links to the band social media accounts so I can easily stay up to date on any news.
     * As a user, I want to be able to purchase band merchandise.
