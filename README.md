@@ -1,12 +1,22 @@
 # Four Fifths Jazz Ensemble
 
-This is a website for a ficticious jazz ensemble called Four Fifths Jazz who are based in the UK. The main aims of the website are to promote their latest 
-single and to encourage visitors to the website to book tickets to their upcoming concerts. The website will also allow users to learn more about ensemble and to 
-purchase merchandise.
+This is a website for a fictitious jazz ensemble called Four Fifths Jazz who is based in the UK. Four Fifths Jazz is a small ensemble consisting of five 
+members who as well as writing and performing their own music cover most of the popular jazz repertoire. The main aims of the website are:
+* Promote the latest single
+* Encourage visitors/fans to book tickets to their upcoming concerts
+* Advertise that the ensemble is available for private functions and workshops
+* Allow visitors/fans to learn more about the ensemble 
+* Sell merchandise.
 
 The name and members of the ensemble have been created solely fot the purpose of this project and are entirely ficticious.
 
-# User Experience (UX)
+## Table of Contents
+
+[User Experience (UX)](userexperience})
+
+
+<a name="userexperience"></a>
+## User Experience (UX)
 
 * User Stories
     * As a new user, I want a clear layout so I can easily navigate the site.
