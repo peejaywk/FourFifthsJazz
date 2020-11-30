@@ -25,3 +25,6 @@ The name and members of the ensemble have been created solely for the purpose of
     * As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time.
     * As a potential client, I would like contact information so I can make enquiries about booking the ensemble.
     * As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event.
+    * As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify.
+    * As a band member, I want to advertise up coming concerts to increase sales of tickets.
+    * As a band member, I want to promote the band for private hire to increase bookings.
