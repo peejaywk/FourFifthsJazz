@@ -7,7 +7,7 @@ members who as well as writing and performing their own music cover most of the 
 * Advertise that the ensemble is available for weddings / parties / corporate events and other private functions
 * Allow visitors/fans to learn more about the ensemble 
 
-The name and members of the ensemble have been created solely fot the purpose of this project and are entirely ficticious.
+The name and members of the ensemble have been created solely for the purpose of this project and are entirely ficticious.
 
 ## Table of Contents
 
