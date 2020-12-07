@@ -17,6 +17,8 @@ The name and members of the ensemble have been created solely for the purpose of
 
 [Technologies Used](#technologies)
 
+[Credits](#credits)
+
 
 <a name="userexperience"></a>
 ## User Experience (UX)
@@ -75,12 +77,9 @@ The name and members of the ensemble have been created solely for the purpose of
 <a name="technologies"></a>
 ## Technologies Used 
 
-### Languages
-* HTML5
-* CSS3
+* This website uses HTML and CSS programming languages.
+* [Bootstrap 4.5.3](https://getbootstrap.com/)
 
-### Frameworks
-* Bootstrap 4.5.3
-
+<a name="credits"></a>
 ## Credits
 Bootstrap navigation element

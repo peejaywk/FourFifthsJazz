@@ -1,0 +1,22 @@
+/* Navbar Items */
+
+/* Bring the navbar to the front and set opacity so you can see the background image */
+.navbar {
+    z-index: 1;
+    opacity: 1.0;
+}
+
+.hero-image {
+    height: 100vh;
+
+    /* Keep the background image center aligned so the main focus of the imaage is always in the middle on all devices */
+    background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    position: relative;
+    background-attachment: fixed;
+    background-position: center 35%;
+    background-repeat: no-repeat;
+}
