@@ -11,9 +11,9 @@ The name and members of the ensemble have been created solely for the purpose of
 
 ## Table of Contents
 
-[User Experience (UX)](userexperience)
+[User Experience (UX)](#userexperience)
 
-[Features](features)
+[Features](#features)
 
 
 <a name="userexperience"></a>
