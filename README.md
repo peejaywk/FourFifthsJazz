@@ -15,6 +15,8 @@ The name and members of the ensemble have been created solely for the purpose of
 
 [Features](#features)
 
+[Technologies Used](#technologies)
+
 
 <a name="userexperience"></a>
 ## User Experience (UX)
@@ -70,4 +72,12 @@ The name and members of the ensemble have been created solely for the purpose of
     * Below the form will be a sumbit button.
     * This page can also be accessed by clicking on the 'booking' button located in the main header.
 
+<a name="technologies"></a>
+## Technologies Used 
 
+### Languages
+* HTML5
+* CSS3
+
+### Frameworks
+* Bootstrap 4.5.3
