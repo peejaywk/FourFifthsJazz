@@ -82,4 +82,8 @@ The name and members of the ensemble have been created solely for the purpose of
 
 <a name="credits"></a>
 ## Credits
+### Code
 Bootstrap navigation element
+
+### Media
+* Unsplash [Home Page Background Image](https://unsplash.com/photos/VAu2j8My3-0). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
