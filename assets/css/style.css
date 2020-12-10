@@ -22,6 +22,10 @@
     transform: scale(1.1);
 }
 
+.navbar-dark .navbar-nav .nav-link:focus{
+    color: #F29D52;
+}
+
 .nav-item {
     margin-right: 20px;
 }
