@@ -8,7 +8,22 @@
 .navbar {
     text-align: center;
     z-index: 1;
-    opacity: 1.0;
+    background-color: rgba(0,0,0,0.5);
+    width: 100%;
+}
+
+.nav-link {
+    -webkit-transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.3s;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover{
+    color: #F29D52;
+    transform: scale(1.1);
+}
+
+.nav-item {
+    margin-right: 20px;
 }
 
 /*---------- Images ----------*/
