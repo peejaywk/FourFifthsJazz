@@ -31,6 +31,14 @@
     margin-right: 20px;
 }
 
+
+/*---------- Footer ----------*/
+footer {
+    background-color: #25261E;
+    color: #F2F2F2;
+}
+
+
 /*---------- Images ----------*/
 .hero-image {
     height: 100vh;
@@ -42,6 +50,7 @@
     background-attachment: fixed;
     background-position: center 35%;
     background-repeat: no-repeat;
+    margin-bottom: 0;
 }
 
 /*---------- Media Queries ----------*/
