@@ -3,6 +3,17 @@
     text-transform: uppercase;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    color: #F2F2F2;
+}
+
+.section-header {
+    text-align: center;
+}
+
 /*---------- Navbar Items ----------*/
 
 /* Bring the navbar to the front and set opacity so you can see the background image */
@@ -35,6 +46,16 @@
 /*---------- Jumbotron ----------*/
 .jumbotron-container {
     position: relative;
+    background-color: transparent;
+}
+
+.jumbotron {
+    height: 75vh;
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: #F2F2F2;
 }
 
 /*---------- Footer ----------*/
