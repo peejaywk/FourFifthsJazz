@@ -117,11 +117,16 @@ footer {
     border-style: solid;
 }
 
+.concert-location {
+    text-align: center;
+    font-weight: 700;
+}
+
 /*---------- Images ----------*/
 .hero-image {
     background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
     background-size: cover;
-    position: relative;
+    position: absolute;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
