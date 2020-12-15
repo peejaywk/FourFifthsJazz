@@ -42,6 +42,7 @@ The name and members of the ensemble have been created solely for the purpose of
 
 * Header
     * The header will be in a fixed postion at the top of the screen and will not scroll with the page contents. This allows visitors to easily navigate the site even when they have scrolled to the bottom of a page.
+        * During the coding of the site it was decided to change the header so that it scrolls with the main page. This seemed a better choice for the styling of the site.
     * The header will include links to all the site pages (Home, About & Contact). These will be positioned to the right of the logo.
     * On hovering over the navigation links with the mouse they will change colour indicating to the user that they are clickable (desktop only).
     * On mobile devices the navigation links will collapse into a hamburger menu.
