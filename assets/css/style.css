@@ -34,7 +34,7 @@ p
     text-align: center;
     z-index: 1;
     background-color: rgba(0,0,0,0.5);
-    width: 100%;
+    /* width: 100%; */
 }
 
 .nav-link {
@@ -51,9 +51,18 @@ p
     margin-right: 20px;
 }
 
+/*---------- Spotify Callout ----------*/
+.spotify-callout {
+    background-color: rgba(0,0,0,0.5);
+    text-align: center;
+    margin-top: 15px;
+    width: 50%;
+    border-radius: 0.3rem;
+}
+
+
 /*---------- Jumbotron ----------*/
 .jumbotron-container {
-    position: relative;
     background-color: transparent;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -61,8 +70,7 @@ p
 }
 
 .jumbotron {
-    position: relative;
-    background-color: rgba(0,0,0,0.5);
+     background-color: rgba(0,0,0,0.5);
 }
 
 .jumbotron-header {
