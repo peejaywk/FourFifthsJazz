@@ -13,13 +13,18 @@ h3,
 h4,
 h5,
 h6,
-p {
+p
+{
     color: #F2F2F2;
     font-weight: 300;
 }
 
 .section-header {
     text-align: center;
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 /*---------- Navbar Items ----------*/
@@ -30,7 +35,6 @@ p {
     z-index: 1;
     background-color: rgba(0,0,0,0.5);
     width: 100%;
-    position: relative;
 }
 
 .nav-link {
@@ -74,6 +78,18 @@ p {
 footer {
     background-color: #25261E;
     color: #F2F2F2;
+}
+
+.email-link {
+    color: #F2F2F2;
+    font-weight: 300;
+    -webkit-transition: all ease-in-out 0.3s;
+    transition: all ease-in-out 0.3s;
+}
+
+.email-link:hover {
+    color: #F29D52;
+    text-decoration: none;
 }
 
 .social-media-link i{
