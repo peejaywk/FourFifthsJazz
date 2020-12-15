@@ -47,10 +47,6 @@ p
     transform: scale(1.1);
 }
 
-.navbar-dark .navbar-nav .nav-link:focus{
-    color: #F29D52;
-}
-
 .nav-item {
     margin-right: 20px;
 }
@@ -61,17 +57,23 @@ p
     background-color: transparent;
     padding-top: 15px;
     padding-bottom: 15px;
-    height: 80vh;
+    margin-bottom: 25vh;
 }
 
 .jumbotron {
     position: relative;
-    height: 75%;
     background-color: rgba(0,0,0,0.5);
 }
 
 .jumbotron-header {
+    text-align: center;
     color: #F2F2F2;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+.jumbotron .lead {
+    text-align: center;
 }
 
 /*---------- Footer ----------*/
@@ -129,7 +131,7 @@ footer {
     border-radius: 0.3rem;
     padding-top: 15px;
     padding-left: 15px;
-    border-color: #F29D52;
+    border-color: #AD524B;
     border-style: solid;
 }
 
