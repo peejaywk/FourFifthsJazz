@@ -34,7 +34,6 @@ p
     text-align: center;
     z-index: 1;
     background-color: rgba(0,0,0,0.5);
-    /* width: 100%; */
 }
 
 .nav-link {
@@ -152,7 +151,7 @@ footer {
 .hero-image {
     background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
     background-size: cover;
-    position: absolute;
+    /* position: absolute; */
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -161,7 +160,7 @@ footer {
 
 /*---------- Media Queries ----------*/
 
-/* Medium Devices - 7698x and above */
+/* Medium Devices - 768x and above */
 @media screen and (min-width: 768px) {
     /* Align the booking button to the right of the nav bar */
     .btn-bookings {
