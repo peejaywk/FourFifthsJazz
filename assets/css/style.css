@@ -140,10 +140,9 @@ footer {
 .concert {
     margin-bottom: 15px;
     background-color: rgba(0,0,0,0.5);
-    height: 150px;
+    height: 180px;
     border-radius: 0.3rem;
-    padding-top: 15px;
-    padding-left: 15px;
+    padding: 15px;
     border-color: #D98841;
     border-style: solid;
 }
@@ -151,6 +150,11 @@ footer {
 .concert-location {
     text-align: center;
     font-weight: 700;
+}
+
+.btn-concert-tickets {
+    text-align: center;
+    margin-top: 20px;
 }
 
 /*---------- Images ----------*/
