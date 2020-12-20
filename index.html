@@ -22,108 +22,118 @@
     <!-- Navbar -->
 
     <!-- CREDIT. The basic structure for the nav bar has been taken from the bootstrap documentation. Additional classes have been added for styling -->
-    
-    <nav class="navbar navbar-expand-md navbar-dark">
-        <a class="navbar-brand" href="index.html">Four Fifths Jazz</a>
 
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
-            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
+    <div class="container-fluid nav-section">
+        <nav class="navbar navbar-expand-md navbar-dark">
+            <a class="navbar-brand" href="index.html">Four Fifths Jazz</a>
 
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav">
-                <li class="nav-item">
-                    <a class="nav-link uppercase active" href="index.html">Home<span class="sr-only">(current)</span></a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link uppercase" href="#">About</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link uppercase" href="contact.html">Contact</a>
-                </li>
-            </ul>
-            <a href="contact.html" class="btn btn-danger uppercase btn-bookings" role="button">Bookings</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link uppercase active" href="index.html">Home<span
+                                class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link uppercase" href="#">About</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link uppercase" href="contact.html">Contact</a>
+                    </li>
+                </ul>
+                <a href="contact.html" class="btn btn-danger uppercase btn-bookings" role="button">Bookings</a>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Callout Section - Hero Image -->
+    <div class="container-fluid callout-section">
+        <!-- Spotify Callout -->
+        <div class="container spotify-callout uppercase">
+            <div class="row">
+                <div class="col-12">
+                    <h5>Listen to our latest single on Spotify
+                        <a href="https://www.spotify.com/uk/" target="_blank" class="social-media-link-jumbotron">
+                            <i class="fab fa-spotify" aria-label="Spotify Profile"></i>
+                        </a>
+                    </h5>
+                </div>
+            </div>
         </div>
-    </nav>
-    
-    <!-- Spotify Callout -->
-    <div class="container spotify-callout uppercase">
-        <div class="row">
-            <div class="col-12">
-                <h5>Listen to our latest single on Spotify
-                    <a href="https://www.spotify.com/uk/" target="_blank" class="social-media-link-jumbotron">
-                        <i class="fab fa-spotify" aria-label="Spotify Profile"></i>
-                    </a>
-                </h5>
+
+        <!-- Jumbotron -->
+        <div class="container jumbotron-container">
+            <div class="row">
+                <div class="col-12">
+                    <section class="jumbotron">
+                        <h1 class="jumbotron-header">
+                            Welcome to Four Fifths Jazz
+                        </h1>
+                        <p class="lead">
+                            Four Fifths Jazz Ensemble is formed of Piano/Vocals, Double Bass, Drums, Trumpet & Sax. The
+                            ensemble
+                            play their own compositions along side all the classics from Ella Fitzgerald to Duke
+                            Ellington.
+                        </p>
+                        <p class="lead">
+                            The ensemble perform concerts all over the country and are also available for private
+                            functions (Parties / Weddings / Corporate Events).
+                        </p>
+                    </section>
+                </div>
             </div>
         </div>
     </div>
-
-    <!-- Jumbotron -->
-    <div class="container jumbotron-container">
-        <div class="row">
-            <div class="col-12">
-                <section class="jumbotron">
-                    <h1 class="jumbotron-header">
-                         Welcome to Four Fifths Jazz
-                    </h1>
-                    <p class="lead">
-                        Four Fifths Jazz Ensemble is formed of Piano/Vocals, Double Bass, Drums, Trumpet & Sax. The ensemble
-                        play their own compositions along side all the classics from Ella Fitzgerald to Duke Ellington.
-                    </p>
-                    <p class="lead">
-                        The ensemble perform concerts all over the country and are also available for private functions (Parties / Weddings / Corporate Events).
-                    </p>
-                </section>
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-12 section-header">
-                <h2 class="uppercase">Upcoming Concerts</h2>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-6 col-lg-3">
-                <div class="concert">
-                    <h5 class="concert-location">Manchester</h5>
-                    <h6><i class="fas fa-home"></i> Venue:</h6>
-                    <h6><i class="far fa-clock"></i> Time:</h6>
-                    <div class="btn-concert-tickets">
-                        <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
-                    </div>
+    <div class="concerts-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 section-header">
+                    <h2 class="uppercase">Upcoming Concerts</h2>
                 </div>
             </div>
-            <div class="col-sm-6 col-lg-3">
-                <div class="concert">
-                    <h5 class="concert-location"> Bristol</h5>
-                    <h6><i class="fas fa-home"></i> Venue:</h6>
-                    <h6><i class="far fa-clock"></i> Time:</h6>
-                    <div class="btn-concert-tickets">
-                        <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+            <div class="row">
+                <div class="col-sm-6 col-lg-3">
+                    <div class="concert">
+                        <h5 class="concert-location">Manchester</h5>
+                        <h6><i class="fas fa-home"></i> Venue:</h6>
+                        <h6><i class="far fa-clock"></i> Time:</h6>
+                        <div class="btn-concert-tickets">
+                            <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-6 col-lg-3">
-                <div class="concert">
-                    <h5 class="concert-location">London</h5>
-                    <h6><i class="fas fa-home"></i> Venue:</h6>
-                    <h6><i class="far fa-clock"></i> Time:</h6>
-                    <div class="btn-concert-tickets">
-                        <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="concert">
+                        <h5 class="concert-location"> Bristol</h5>
+                        <h6><i class="fas fa-home"></i> Venue:</h6>
+                        <h6><i class="far fa-clock"></i> Time:</h6>
+                        <div class="btn-concert-tickets">
+                            <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-sm-6 col-lg-3">
-                <div class="concert">
-                    <h5 class="concert-location">Edinburgh</h5>
-                    <h6><i class="fas fa-home"></i> Venue:</h6>
-                    <h6><i class="far fa-clock"></i> Time:</h6>
-                    <div class="btn-concert-tickets">
-                        <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="concert">
+                        <h5 class="concert-location">London</h5>
+                        <h6><i class="fas fa-home"></i> Venue:</h6>
+                        <h6><i class="far fa-clock"></i> Time:</h6>
+                        <div class="btn-concert-tickets">
+                            <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-lg-3">
+                    <div class="concert">
+                        <h5 class="concert-location">Edinburgh</h5>
+                        <h6><i class="fas fa-home"></i> Venue:</h6>
+                        <h6><i class="far fa-clock"></i> Time:</h6>
+                        <div class="btn-concert-tickets">
+                            <a href="#" class="btn btn-danger uppercase" role="button">Get Tickets!</a>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -137,7 +147,7 @@
                 This site is for educational purposes only.
             </div>
             <div class="col-sm-4 py-3">
-                <i class="fas fa-envelope"></i> 
+                <i class="fas fa-envelope"></i>
                 <p class="inline-block">
                     <a class="email-link" href="mailto:fourfifthsjazz@gmail.com">fourfifthsjazz@gmail.com</a>
                 </p>

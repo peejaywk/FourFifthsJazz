@@ -29,10 +29,15 @@ p
 
 /*---------- Navbar Items ----------*/
 
+.nav-section {
+    position: absolute;
+    z-index: 1;
+        padding-left: 0;
+    padding-right: 0;
+}
 /* Bring the navbar to the front and set opacity so you can see the background image */
 .navbar {
     text-align: center;
-    z-index: 1;
     background-color: rgba(0,0,0,0.5);
 }
 
@@ -57,11 +62,21 @@ p
     margin-right: 10px;
 }
 
-/*---------- Spotify Callout ----------*/
+/*---------- Callout Section ----------*/
+.callout-section {
+    background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    position: relative;
+    padding-top: 150px;
+}
+
 .spotify-callout {
     background-color: rgba(0,0,0,0.5);
     text-align: center;
-    margin-top: 15px;
     width: 50%;
     border-radius: 0.3rem;
 }
@@ -72,7 +87,6 @@ p
     background-color: transparent;
     padding-top: 15px;
     padding-bottom: 15px;
-    margin-bottom: 25vh;
 }
 
 .jumbotron {
@@ -138,6 +152,11 @@ footer {
 }
 
 /*---------- Upcoming Concerts ----------*/
+.concerts-section {
+    background-color: #252525;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
 .concert {
     margin-bottom: 15px;
     background-color: rgba(0,0,0,0.5);
@@ -156,16 +175,6 @@ footer {
 .btn-concert-tickets {
     text-align: center;
     margin-top: 20px;
-}
-
-/*---------- Images ----------*/
-.hero-image {
-    background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
-    background-size: cover;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-bottom: 0;
 }
 
 /*---------- Media Queries ----------*/
