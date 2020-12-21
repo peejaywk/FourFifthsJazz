@@ -42,7 +42,7 @@ p
 /* Bring the navbar to the front and set opacity so you can see the background image */
 .navbar {
     text-align: center;
-    background-color: rgba(0,0,0,0.5);
+    background-color: #252525;
 }
 
 .navbar-dark .navbar-brand {
@@ -199,5 +199,12 @@ footer {
         position: absolute;
         margin-right: 16px;
         right: 0;
+    }
+}
+
+/* On medium and above make the navbar background opaque. */
+@media screen and (min-width: 768px) {
+    .navbar {
+        background-color: rgba(0,0,0,0.5);
     }
 }
