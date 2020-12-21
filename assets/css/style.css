@@ -5,6 +5,9 @@ body {
 
 label {
     display: block;
+    color: #F2E6D8;
+    font-weight: 300;
+    text-align: left;
 }
 
 .uppercase {
@@ -29,6 +32,10 @@ p
 
 .inline-block {
     display: inline-block;
+}
+
+.para-text {
+    text-align: left;
 }
 
 /*---------- Navbar Items ----------*/
@@ -79,10 +86,11 @@ p
 }
 
 .spotify-callout {
-    background-color: rgba(0,0,0,0.5);
+    background-color: rgba(0,0,0,0.7);
     text-align: center;
     width: 50%;
     border-radius: 0.3rem;
+    padding: 15px;
 }
 
 
@@ -94,7 +102,7 @@ p
 }
 
 .jumbotron {
-     background-color: rgba(0,0,0,0.5);
+     background-color: rgba(0,0,0,0.7);
 }
 
 .jumbotron-header {
@@ -169,6 +177,7 @@ footer {
     padding: 15px;
     border-color: #D98841;
     border-style: solid;
+    /* min-width: 260px; */
 }
 
 .concert-location {
@@ -190,6 +199,14 @@ footer {
     padding-top: 150px
 }
 
+.form-group {
+    margin-top: 15px;
+}
+
+textarea {
+    width: 100%
+}
+
 /*---------- Media Queries ----------*/
 
 /* Medium Devices - 768x and above */
@@ -202,9 +219,9 @@ footer {
     }
 }
 
-/* On medium and above make the navbar background opaque. */
+/* On medium and above make the navbar background transparent. */
 @media screen and (min-width: 768px) {
     .navbar {
-        background-color: rgba(0,0,0,0.5);
+        background-color: rgba(0,0,0,0.7);
     }
 }
