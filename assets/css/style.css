@@ -207,6 +207,24 @@ textarea {
     width: 100%
 }
 
+/*---------- About Section ----------*/
+.about-hero-image {
+    background-image: url(../images/sam-browne-xj7l5o8bTzI-unsplash-resize.jpg); 
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 75vh;
+    position: relative;
+    padding-top: 150px;
+}
+
+.about-section {
+    position: relative;
+    background-color: #252525;
+    text-align: center;
+}
+
 /*---------- Media Queries ----------*/
 
 /* Medium Devices - 768x and above */
