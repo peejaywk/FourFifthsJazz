@@ -38,6 +38,10 @@ p
     text-align: left;
 }
 
+.align-left {
+    text-align: left;
+}
+
 /*---------- Navbar Items ----------*/
 
 .nav-section {
@@ -223,6 +227,11 @@ textarea {
     position: relative;
     background-color: #252525;
     text-align: center;
+}
+
+.ella-image {
+    background-image: url(../images/ella-fitzgerald-1275553_640.jpg);
+    position: relative;
 }
 
 /*---------- Media Queries ----------*/
