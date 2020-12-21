@@ -3,6 +3,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
+label {
+    display: block;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -32,7 +36,7 @@ p
 .nav-section {
     position: absolute;
     z-index: 1;
-        padding-left: 0;
+    padding-left: 0;
     padding-right: 0;
 }
 /* Bring the navbar to the front and set opacity so you can see the background image */
@@ -175,6 +179,15 @@ footer {
 .btn-concert-tickets {
     text-align: center;
     margin-top: 20px;
+}
+
+/*---------- Contact Container ----------*/
+.contact-container {
+    position: relative;
+    background-color: #252525;
+    min-height: 100vh;
+    text-align: center;
+    padding-top: 150px
 }
 
 /*---------- Media Queries ----------*/
