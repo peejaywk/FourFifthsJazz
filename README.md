@@ -87,3 +87,4 @@ Bootstrap navigation element
 
 ### Media
 * Unsplash [Home Page Background Image](https://unsplash.com/photos/VAu2j8My3-0). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
+* Unsplash [About Page Background Image](https://unsplash.com/photos/xj7l5o8bTzI). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)

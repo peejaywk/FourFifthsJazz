@@ -35,7 +35,7 @@ p
 }
 
 .para-text {
-    text-align: left;
+    text-align: justify;
 }
 
 .align-left {
@@ -227,6 +227,7 @@ textarea {
     position: relative;
     background-color: #252525;
     text-align: center;
+    padding-top: 25px;
 }
 
 /*---------- Media Queries ----------*/
