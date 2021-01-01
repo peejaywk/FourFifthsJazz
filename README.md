@@ -17,6 +17,10 @@ The name and members of the ensemble have been created solely for the purpose of
 
 [Technologies Used](#technologies)
 
+[Testing](#testing)
+
+[Deployment](#deployment)
+
 [Credits](#credits)
 
 
@@ -76,9 +80,16 @@ The name and members of the ensemble have been created solely for the purpose of
 
 <a name="technologies"></a>
 ## Technologies Used 
-
 * This website uses HTML and CSS programming languages.
 * [Bootstrap 4.5.3](https://getbootstrap.com/)
+
+<a name="testing"></a>
+## Testing
+
+<a name="deployment"></a>
+## Deployment
+
+
 
 <a name="credits"></a>
 ## Credits
