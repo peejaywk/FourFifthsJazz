@@ -1,6 +1,7 @@
 /*---------- General Styles ----------*/
 body {
     font-family: 'Roboto', sans-serif;
+    background-color: #252525;
 }
 
 label {
@@ -230,6 +231,20 @@ textarea {
     padding-top: 25px;
 }
 
+.about-img {
+    width: 100%;
+    padding: 20px;
+    min-width: 260px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+ .influence-img {
+    width: 100%;
+    padding: 20px;
+    min-width: 220px;
+    max-width: 550px;
+    margin: 0 auto;
+ }
 /*---------- Media Queries ----------*/
 
 /* Medium Devices - 768x and above */
@@ -246,5 +261,12 @@ textarea {
 @media screen and (min-width: 768px) {
     .navbar {
         background-color: rgba(0,0,0,0.7);
+    }
+}
+
+/* On medium and above about page content set at 80% width. */
+@media screen and (min-width: 768px) {
+    .about-section {
+        width: 80%;
     }
 }
