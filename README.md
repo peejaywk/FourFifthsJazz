@@ -99,3 +99,8 @@ Bootstrap navigation element
 ### Media
 * Unsplash [Home Page Background Image](https://unsplash.com/photos/VAu2j8My3-0). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
 * Unsplash [About Page Background Image](https://unsplash.com/photos/xj7l5o8bTzI). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
+* Unsplash [About Page - About Us Image](https://unsplash.com/photos/k4MQU76YTUI). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
+* Unsplash [About Page - About Us Image](https://unsplash.com/photos/bjgMU-viIzA). Credit: [Alasdair Elmes](https://unsplash.com/@alelmes)
+* Pixabay [About Page - Ella Fitzgerald](https://pixabay.com/photos/ella-fitzgerald-portrait-1946-1275553/)
+* Iconspng [About Page - Louis Armstrong](https://www.iconspng.com/image/48640/louis-armstrong)
+* Wikipedia [About Page - Dinah Washington](https://commons.wikimedia.org/wiki/File:Dinah_Washington_1962.jpg). Credit: Associated Booking Corporation/photo by James Kriegsmann, New York
