@@ -245,6 +245,15 @@ textarea {
     max-width: 550px;
     margin: 0 auto;
  }
+
+ .list-group-item {
+    width: 300px;
+    text-align: left;
+    background-color: #252525;
+    border: 0;
+    color: #F2E6D8;
+ }
+
 /*---------- Media Queries ----------*/
 
 /* Medium Devices - 768x and above */
