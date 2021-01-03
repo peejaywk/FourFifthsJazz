@@ -1,5 +1,9 @@
 # Four Fifths Jazz Ensemble
 
+[Visit Website](https://peejaywk.github.io/FourFifthsJazz/)
+
+![alt text](/assets/images/am-i-responsive-capture.png "Responsive design image")
+
 This is a website for a fictitious jazz ensemble called Four Fifths Jazz who is based in the UK. Four Fifths Jazz is a small ensemble consisting of five 
 members who as well as writing and performing their own music cover most of the popular jazz repertoire. The main aims of the website are:
 * Promote the latest single
