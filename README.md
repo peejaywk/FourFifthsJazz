@@ -92,7 +92,17 @@ The name and members of the ensemble have been created solely for the purpose of
 
 <a name="deployment"></a>
 ## Deployment
+This project was developed using [GitPod](https://gitpod.io/) with [Github](https://github.com/) used for version control and deployment.
 
+The instructions below detail the steps to deploy this website to GitHub pages:
+
+1. Login to [Github](https://github.com/)
+2. Select **peejaywk/FourFifthsJazz** from the list of repositories.
+3. Select **Settings** from the menu near the top of the screen.
+4. Scroll down to the **GitHub Pages** section.
+5. Under **Source** select the **Master Branch** from the drop-down menu.
+6. The page is automatically refreshed on selecting Master Branch. The website is now deployed to Github pages.
+7. Scroll back down to the **GitHub Pages** section and copy the link to the deployed website. **Note:** it can take several minutes for the site to be deployed by GitHub.
 
 
 <a name="credits"></a>
