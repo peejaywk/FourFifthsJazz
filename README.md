@@ -91,13 +91,18 @@ The name and members of the ensemble have been created solely for the purpose of
 ## Testing
 
 ### HTML Validation
-To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages were tested using this online tool.
+To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages was tested using this online tool.
 
 #### Home Page ([W3C Validation Report](assets/documents/testing/HomePageNu-HtmlChecker.pdf))
 On first testing the home page the validation tool came back with some warnings regarding possible misuse of the aria-label. 
 On investigation the label was in the wrong element - it was in the *i* element used for the Font Awesome icon instead of the *a* element for the social media link. Moving the aria-label into the correct element removed the warning when the page was checked a second time.
 
 The validation tool also highlighted an empty heading - this heading was removed from the code.
+
+#### About Page ([W3C Validation Report](assets/documents/testing/AboutPageNu-HtmlChecker.pdf))
+Contained the same warnings as seen when testing the home page - the footer code was common across all pages. Applied the same corrections as detailed above.
+
+#### Contact Page
 
 ### CSS Validation
 
