@@ -90,6 +90,11 @@ The name and members of the ensemble have been created solely for the purpose of
 <a name="testing"></a>
 ## Testing
 
+### HTML Validation
+To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages were tested using this online tool.
+
+### CSS Validation
+
 <a name="deployment"></a>
 ## Deployment
 This project was developed using [GitPod](https://gitpod.io/) with [Github](https://github.com/) used for version control and deployment.
