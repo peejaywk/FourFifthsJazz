@@ -90,6 +90,10 @@ The name and members of the ensemble have been created solely for the purpose of
 <a name="testing"></a>
 ## Testing
 
+### iPhone Testing
+Testing on the iPhone 11 highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
+Searching online identified an issue with the 'background-attachment: fixed' in the CSS file. Changing this to 'background-attachment: fixed' sorted out the problem with the background image. 
+
 ### HTML Validation
 To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages was tested using this online tool.
 
