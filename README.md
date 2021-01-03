@@ -102,7 +102,8 @@ The validation tool also highlighted an empty heading - this heading was removed
 #### About Page ([W3C Validation Report](assets/documents/testing/AboutPageNu-HtmlChecker.pdf))
 Contained the same warnings as seen when testing the home page - the footer code was common across all pages. Applied the same corrections as detailed above.
 
-#### Contact Page
+#### Contact Page ([W3C Validation Report](assets/documents/testing/ContactPageNu-HtmlChecker.pdf))
+Reported an error with a bad value for the name attribute on the text area element. A blank name was causing this error. Corrected by giving the name attribute a value.
 
 ### CSS Validation
 
