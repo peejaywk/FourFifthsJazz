@@ -182,7 +182,6 @@ footer {
     padding: 15px;
     border-color: #D98841;
     border-style: solid;
-    /* min-width: 260px; */
 }
 
 .concert-location {
@@ -252,6 +251,16 @@ textarea {
     background-color: #252525;
     border: 0;
     color: #F2E6D8;
+ }
+
+ .testimonial {
+    margin-bottom: 15px;
+    background-color: rgba(0,0,0,0.5);
+    height: 180px;
+    border-radius: 0.3rem;
+    padding: 15px;
+    border-color: #D98841;
+    border-style: solid;
  }
 
 /*---------- Media Queries ----------*/
