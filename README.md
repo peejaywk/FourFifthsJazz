@@ -86,6 +86,15 @@ The name and members of the ensemble have been created solely for the purpose of
 ## Technologies Used 
 * This website uses HTML and CSS programming languages.
 * [Bootstrap 4.5.3](https://getbootstrap.com/)
+* [GitPod](https://gitpod.io/) was use as the development environment.
+* [GitHub](https://github.com/) was used for configuration control and to host the website.
+* [Font Awesome](https://fontawesome.com/) provided the social media icons and the icons for the concerts and set list sections.
+* [Googel Fonts](https://fonts.google.com/) provided the Roboto font that is used throughout this website.
+* [Adobe Color](https://color.adobe.com/create/color-wheel) was used to help selecting a colour palatte for the website.
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used to check/validate the CSS file.
+* [W3C Markup Validator](https://validator.w3.org/) was used to check/validate all the HTML files in this project.
+* [Autoprefixer](http://autoprefixer.github.io/) was used to add vendor prefixes to the CSS file.
+
 
 <a name="testing"></a>
 ## Testing
