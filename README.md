@@ -31,17 +31,25 @@ The name and members of the ensemble have been created solely for the purpose of
 <a name="userexperience"></a>
 ## User Experience (UX)
 
-* User Stories
-    * As a new user, I want a clear layout so I can easily navigate the site.
-    * As a new user, I want to read about the band and their infuences to get a better understanding of who they are and what music they perform.
-    * As a user, I want to see when the band are next playing to I can easily book tickets.
-    * As a user, I want links to the band social media accounts so I can easily stay up to date on any news.
-    * As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time.
-    * As a potential client, I would like contact information so I can make enquiries about booking the ensemble.
-    * As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event.
-    * As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify.
-    * As a band member, I want to advertise up coming concerts to increase sales of tickets.
-    * As a band member, I want to promote the band for private hire to increase bookings.
+### User Stories
+* As a new user, I want a clear layout so I can easily navigate the site.
+* As a new user, I want to read about the band and their infuences to get a better understanding of who they are and what music they perform.
+* As a user, I want to see when the band are next playing to I can easily book tickets.
+* As a user, I want links to the band social media accounts so I can easily stay up to date on any news.
+* As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time.
+* As a potential client, I would like contact information so I can make enquiries about booking the ensemble.
+* As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event.
+* As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify.
+* As a band member, I want to advertise up coming concerts to increase sales of tickets.
+* As a band member, I want to promote the band for private hire to increase bookings.
+
+### Wireframe Mockups
+
+The website is split into three pages - home, about and contact. Initial design ideas were captured using [Balsamiq](https://balsamiq.com/) and they are linked below:
+
+* [Home Page](/assets/wireframes/HomePage.png)
+* [About Page](/assets/wireframes/AboutPage.png)
+* [Contact Page](/assets/wireframes/ContactPage.png)
 
 <a name="features"></a>
 ## Features
@@ -94,6 +102,7 @@ The name and members of the ensemble have been created solely for the purpose of
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used to check/validate the CSS file.
 * [W3C Markup Validator](https://validator.w3.org/) was used to check/validate all the HTML files in this project.
 * [Autoprefixer](http://autoprefixer.github.io/) was used to add vendor prefixes to the CSS file.
+* [Balsamiq](https://balsamiq.com/) was used to create the wireframe mockups of the website.
 
 
 <a name="testing"></a>
