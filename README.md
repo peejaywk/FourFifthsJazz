@@ -91,8 +91,10 @@ The name and members of the ensemble have been created solely for the purpose of
 ## Testing
 
 ### iPhone Testing
-Testing on the iPhone 11 highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
-Searching online identified an issue with the 'background-attachment: fixed' in the CSS file. Changing this to 'background-attachment: fixed' sorted out the problem with the background image. 
+Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
+Searching [Can I Use](https://www.caniuse.com/?search=background-attachment) identified an issue with iOS having an issue with the 'background-attachment: fixed' being used with 'background-size: cover'. Searching the Code Institute Slack forum also highlighted that other people have had problems with this in the past.
+One solution [posted here](https://www.w3schools.com/howto/howto_css_parallax.asp) was to disable parallax scrolling for all tablets and phones. As I couldn't find another solution for this that would enable me to have parallax scrolling on iOS devices I opted to implement this media query.
+If another solution presents itself in the future then this will be implemented to keep the site consistent across all platforms.
 
 ### HTML Validation
 To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages was tested using this online tool.

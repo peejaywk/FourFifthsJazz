@@ -82,7 +82,7 @@ p
 .callout-section {
     background-image: url(../images/sam-browne-VAu2j8My3-0-unsplash-resize.jpg); 
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 100vh;
@@ -215,7 +215,7 @@ textarea {
 .about-hero-image {
     background-image: url(../images/sam-browne-xj7l5o8bTzI-unsplash-compressed.jpg); 
     background-size: cover;
-    background-attachment: scroll;
+    background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 75vh;
@@ -256,7 +256,7 @@ textarea {
  .testimonial {
     margin-bottom: 15px;
     background-color: rgba(0,0,0,0.5);
-    height: 180px;
+    height: 220px;
     border-radius: 0.3rem;
     padding: 15px;
     border-color: #D98841;
@@ -288,3 +288,12 @@ textarea {
         width: 80%;
     }
 }
+
+/* CREDIT: https://www.w3schools.com/howto/howto_css_parallax.asp */
+ /* Turn off parallax scrolling for all tablets and phones. Increase/decrease the pixels if needed */
+@media only screen and (max-device-width: 1366px) {
+    .about-hero-image,
+    .callout-section {
+        background-attachment: scroll;
+    }
+} 
