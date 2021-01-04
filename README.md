@@ -98,12 +98,9 @@ tool was used to extract a suitable colour palette for the site.
 
 Only three colours were used from the above colour palette.
 
-* #25261E
-    This was used for the background colour across the site. 
-* #F2E6D8
-    This light pastel colour was used for the text across the whole site. This was also used to highlight the active page in the nav bar.
-* #D98841
-    This was used as an accent colour for the hover items (navbar and footer) and for the borders for the Upcomiing Concerts and Testimonials.
+* #25261E - This was used for the background colour across the site. 
+* #F2E6D8 - This light pastel colour was used for the text across the whole site. This was also used to highlight the active page in the nav bar.
+* #D98841 - This was used as an accent colour for the hover items (navbar and footer) and for the borders for the Upcomiing Concerts and Testimonials.
 
 
 <a name="technologies"></a>
