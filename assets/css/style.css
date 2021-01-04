@@ -270,14 +270,26 @@ textarea {
     color: #F2E6D8;
  }
 
+ .testimonial-section {
+    margin-top: 25px;
+    margin-bottom: 40px;
+ }
+
  .testimonial {
     margin-bottom: 15px;
     background-color: rgba(0,0,0,0.5);
-    height: 220px;
+    height: 250px;
+    max-width: 500px;
     border-radius: 0.3rem;
     padding: 15px;
     border-color: #D98841;
     border-style: solid;
+    margin: 10px auto;
+ }
+
+ .testimonial-para-text {
+     text-align: left;
+     font-style: italic;
  }
 
 /*---------- Media Queries ----------*/
