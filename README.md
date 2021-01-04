@@ -105,6 +105,12 @@ Searching [Can I Use](https://www.caniuse.com/?search=background-attachment) ide
 One solution [posted here](https://www.w3schools.com/howto/howto_css_parallax.asp) was to disable parallax scrolling for all tablets and phones. As I couldn't find another solution for this that would enable me to have parallax scrolling on iOS devices I opted to implement this media query.
 If another solution presents itself in the future then this will be implemented to keep the site consistent across all platforms.
 
+### About Page
+Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
+
+### Contact Page
+Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
+
 ### HTML Validation
 To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages was tested using this online tool.
 

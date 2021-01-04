@@ -132,9 +132,10 @@ p
 }
 
 /*---------- Footer ----------*/
-footer {
+.footer-section {
     background-color: #25261E;
     color: #F2E6D8;
+    text-align: center;
 }
 
 .email-link {
