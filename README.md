@@ -90,6 +90,8 @@ The website is split into three pages - home, about and contact. Initial design 
     * Below the form will be a sumbit button.
     * This page can also be accessed by clicking on the 'booking' button located in the main header.
 
+### Colour Palette
+
 <a name="technologies"></a>
 ## Technologies Used 
 * This website uses HTML and CSS programming languages.
@@ -107,6 +109,38 @@ The website is split into three pages - home, about and contact. Initial design 
 
 <a name="testing"></a>
 ## Testing
+
+### User Story Testing
+* *"As a new user, I want a clear layout so I can easily navigate the site."*
+    * All pages have the same static nav bar which clearly shows what pages are available
+    * The logo/text on the left of the nav bar always leads back to the home page - this is common practice and expected by users.
+* *"As a new user, I want to read about the band and their infuences to get a better understanding of who they are and what music they perform."*
+    * The About page includes information for users to read that will inform them what the band have to offer, what their influences are and what type of music
+    they can expect if they book the band.
+* *"As a user, I want to see when the band are next playing to I can easily book tickets."*
+    * At the bottom of the home page there is a list of upcoming concerts with a link to buy tickets.
+* *"As a user, I want links to the band social media accounts so I can easily stay up to date on any news."*
+    * The footer, which is present on all pages, contains links to all the bands social media accounts.
+* *"As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time."*
+    * On the Home page there is a clear link as part of the jumbotron that promotes the bands latest single on Spotify.
+    * The footer on each page also has a link to the bands Spotify profile.
+* *"As a potential client, I would like contact information so I can make enquiries about booking the ensemble."*
+    * As part of the nav bar there is a Booking button that will take the user to the contacts page.
+    * Contact information (email address) is displayed in the footer of each page and also on the Contact page.
+    * Users can contact the band by navigating to the Contact page and competing the form.
+* *"As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event."*
+    * At the bottom of the About page a typical set list is available for the user to read.
+* *"As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify."*
+    * On the Home page there is a clear link as part of the jumbotron that promotes the bands latest single on Spotify.
+    * The footer on each page also has a link to the bands Spotify profile.
+* *"As a band member, I want to advertise up coming concerts to increase sales of tickets."*
+    * At the bottom of the home page there is a list of upcoming concerts with a link to buy tickets.
+    * The About page also includes testimonials from previous clients for users to read.
+* *"As a band member, I want to promote the band for private hire to increase bookings."*
+    * The About page includes information for users to read that will inform them what the band have to offer, what their influences are and what type of music
+    they can expect if they book the band.
+    * There is a clearly visible Bookings button displayed at the top of the screen on each page that will take the user to the Contact page.
+    * Testimonials from previous satisfied clients are listed on the About page for users to read.
 
 ### iPhone Testing
 Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
