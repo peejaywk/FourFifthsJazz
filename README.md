@@ -91,7 +91,7 @@ The website is split into three pages - home, about and contact. Initial design 
     * This page can also be accessed by clicking on the 'booking' button located in the main header.
 
 ### Colour Palette
-The colour palette for the website was deliberetly chosen to complement the background image of the Home page. The [Adobe Color](https://color.adobe.com/create/color-wheel)
+The colour palette for the website was deliberetly chosen to complement the background image of the Home page and to produce a warm and welcoming feel to the site. The [Adobe Color](https://color.adobe.com/create/color-wheel)
 tool was used to extract a suitable colour palette for the site.
 
 ![alt text](/assets/images/colour-scheme-muted.png "Colour Scheme")
@@ -152,6 +152,47 @@ Only three colours were used from the above colour palette.
     they can expect if they book the band.
     * There is a clearly visible Bookings button displayed at the top of the screen on each page that will take the user to the Contact page.
     * Testimonials from previous satisfied clients are listed on the About page for users to read.
+
+### Home Page Testing
+* Navigation bar
+    * Go to the Home page from a desktop computer.
+    * Reduce the screen size to verify that the navigation bar is responsive and switches to the burger menu at the correct screen size.
+    * Hover over the navigation menu items and verify that the colour changes and the text increases in size.
+    * Click on the "Four Fifths Jazz" text on the left hand side of the navigation bar and verify that it links to the Home page.
+    * Click on each of the navigation menu items and verify that they link to the correct pages.
+    * Hover over the "Bookings" button and verify that it changes colour.
+    * Switch to a mobile view and verify that the menu items and "Bookings" button collapse down into the burger menu.
+    * In mobile view click on the burger menu and verify that the drop down menu items are centered on the screen.
+    * In mobile view verify that the navigation menu items in the burger menu link to the correct pages.
+    * On desktop devices verify that the navigation menu is transparent and the background image can be seen through the navigation bar.
+    * On mobile devices verify that the navigation menu is opaque and that the backgroound image cannot be seen through the navigation bar.
+* Hero Image / Jumbotron
+    * Go to the Home page from a desktop computer.
+    * Confirm that the background image width and height is 100% of the screen and that it is visible behind the navigation bar.
+    * Verify the background image remains static when scrolling down the page.
+    * Check that the text overlay on the home screen is centered on the page.
+    * Click on the Spotify icon and check it opens Spotify in a new browser tab.
+    * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image scrolls with the page.
+* Upcoming Concerts
+    * Go to the Home page from a desktop computer.
+    * Reduce the screen size and verify that on individual concert boxes respond according.
+        * Small screen sizes (Mobile): Individual boxes stacked on top of each other. 
+        * Medium screen size (large phone or small tablet): Two boxes on two rows.
+        * Large screen sizes: Four boxes on one row.
+    * Click on the link in each of the boxes and verify it opens the Ticket Master website in a new browser tab.
+* Footer
+    * Go to the Home page from a desktop computer.
+    * Hover over each of the social media icons and verify the icon changes colour and increases in size.
+    * Click on each social media link and verify it opens up the correct page in a new browser tab.
+    * Hover over the email link and verify that it changes colour.
+    * Click on the email link and verify that it opens up your email client. The resposnse may vary depending on the setup of your computer.
+
+### About Page Testing
+* Navigation bar
+    * Repeat tests detailed in the Home Page Testing section above.
+    * Verify that the navbar is identical to that of the Home page.
+
+### Contact Page Testing
 
 ### iPhone Testing
 Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
