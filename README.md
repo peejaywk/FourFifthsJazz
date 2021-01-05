@@ -23,6 +23,8 @@ The name and members of the ensemble have been created solely for the purpose of
 
 [Testing](#testing)
 
+[Bugs / Issues](#bugs)
+
 [Deployment](#deployment)
 
 [Credits](#credits)
@@ -246,8 +248,12 @@ Contained the same warnings as seen when testing the home page - the footer code
 Reported an error with a bad value for the name attribute on the text area element. A blank name was causing this error. Corrected by giving the name attribute a value.
 
 ### CSS Validation
+To validate the CSS the online [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used. The tool highlighted an error with one of the media queries using
+a depricated feature. The report can be found [here](assets/documents/testing/W3C-CSS-ValidatorResults.pdf). To fix the issue the depricated media feature
+"max-device-width" was changed to "max-width".
 
-## Bugs
+<a name="bugs"></a>
+## Bugs / Issues
 
 ### iPhone Testing
 Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
