@@ -172,7 +172,7 @@ Only three colours were used from the above colour palette.
     * Verify the background image remains static when scrolling down the page.
     * Check that the text overlay on the home screen is centered on the page.
     * Click on the Spotify icon and check it opens Spotify in a new browser tab.
-    * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image scrolls with the page.
+    * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image remains fixed when scrolling down the page.
 * Upcoming Concerts
     * Go to the Home page from a desktop computer.
     * Reduce the screen size and verify that on individual concert boxes respond according.
@@ -191,8 +191,39 @@ Only three colours were used from the above colour palette.
 * Navigation bar
     * Repeat tests detailed in the Home Page Testing section above.
     * Verify that the navbar is identical to that of the Home page.
+* Hero Image
+    * Go to the Home page from a desktop computer.
+    * Confirm that the background image width is 100% and the height is 70% of the screen and that it is visible behind the navigation bar.
+    * Verify the background image remains static when scrolling down the page.
+    * Check that the About Section is visible on the screen below the background imgae.
+    * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image remains fixed when scrolling down the page.
+* About Us Section
+
+* Influences Section
+
+* Testimonials Section
+
+* Example Set List Section
+
+* Footer
+    * Repeat tests detailed in the Home Page Testing section above.
+    * Verify that the footer is identical to that of the Home page.
 
 ### Contact Page Testing
+* Navigation bar
+    * Repeat tests detailed in the Home Page Testing section above.
+    * Verify that the navbar is identical to that of the Home page.
+* Contact Us Section
+    * Verify that the form and the accomanying text are centered on the screen.
+    * Hover over the email address in the text and verify that it changes colour.
+    * Click on the email link and verify that it opens up your email client. The resposnse may vary depending on the setup of your computer.
+    * Without completing any of the form click on the "Send" button and verify that an error message appears asking you to fill in the required fields.
+    * Verify that the appropriate text can be entered into each field of the form.
+    * Repeat the tests on mobile and tablet devices.
+    * NOTE: There will no response on submitting a completed form using the "Send" button. There is no backend to receive and check the data.
+* Footer
+    * Repeat tests detailed in the Home Page Testing section above.
+    * Verify that the footer is identical to that of the Home page.
 
 ### iPhone Testing
 Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
