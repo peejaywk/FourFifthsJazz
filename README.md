@@ -198,13 +198,18 @@ Only three colours were used from the above colour palette.
     * Check that the About Section is visible on the screen below the background imgae.
     * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image remains fixed when scrolling down the page.
 * About Us Section
-
+    * Verify that the text is centered on the page and scales correclty when the screen size is reduced.
+    * Verify that the images below the text are resposive and respond correctly to changes in screen size.
+    * Verify that the images are correclty positioned on all devices and screen sizes.
 * Influences Section
-
+    * Verify that the text is centered on the page and scales correclty when the screen size is reduced.
+    * Verify that the images below the text are resposive and respond correctly to changes in screen size.
+    * Verify that the images are correclty positioned on all devices and screen sizes.
 * Testimonials Section
-
+    * Verify that when the screen size is reduced the testimonals scale correctly and that they move into a single column on mobile devices.
+    * Verify that the text stays withing the bounding border when the screen size is reduced.
 * Example Set List Section
-
+    * Reduce the screen size and verify that the set list transitions into a single list at the correct screen size.
 * Footer
     * Repeat tests detailed in the Home Page Testing section above.
     * Verify that the footer is identical to that of the Home page.
@@ -225,18 +230,6 @@ Only three colours were used from the above colour palette.
     * Repeat tests detailed in the Home Page Testing section above.
     * Verify that the footer is identical to that of the Home page.
 
-### iPhone Testing
-Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
-Searching [Can I Use](https://www.caniuse.com/?search=background-attachment) identified an issue with iOS having an issue with the 'background-attachment: fixed' being used with 'background-size: cover'. Searching the Code Institute Slack forum also highlighted that other people have had problems with this in the past.
-One solution [posted here](https://www.w3schools.com/howto/howto_css_parallax.asp) was to disable parallax scrolling for all tablets and phones. As I couldn't find another solution for this that would enable me to have parallax scrolling on iOS devices I opted to implement this media query.
-If another solution presents itself in the future then this will be implemented to keep the site consistent across all platforms.
-
-### About Page
-Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
-
-### Contact Page
-Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
-
 ### HTML Validation
 To validate the HTML the online [W3C Markup Validation Service](https://validator.w3.org/) was used. Each of the three pages was tested using this online tool.
 
@@ -253,6 +246,22 @@ Contained the same warnings as seen when testing the home page - the footer code
 Reported an error with a bad value for the name attribute on the text area element. A blank name was causing this error. Corrected by giving the name attribute a value.
 
 ### CSS Validation
+
+## Bugs
+
+### iPhone Testing
+Testing on the iPhone highlighted a problem with the background image on the home and about page. The background image was zoomed in and not scaled as on desktop devices.
+Searching [Can I Use](https://www.caniuse.com/?search=background-attachment) identified an issue with iOS having an issue with the 'background-attachment: fixed' being used with 'background-size: cover'. Searching the Code Institute Slack forum also highlighted that other people have had problems with this in the past.
+One solution [posted here](https://www.w3schools.com/howto/howto_css_parallax.asp) was to disable parallax scrolling for all tablets and phones. As I couldn't find another solution for this that would enable me to have parallax scrolling on iOS devices I opted to implement this media query.
+If another solution presents itself in the future then this will be implemented to keep the site consistent across all platforms.
+
+### About Page
+Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
+
+### Contact Page
+Navbar was scrolling instead of being fixed at the top of the screen. Added the missing 'fixed-top' to nav element - this fixed the problem.
+
+
 
 <a name="deployment"></a>
 ## Deployment
