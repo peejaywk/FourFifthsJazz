@@ -4,7 +4,7 @@
 
 ![alt text](/assets/images/am-i-responsive-capture.png "Responsive design image")
 
-This is a website for a fictitious jazz ensemble called Four Fifths Jazz who is based in the UK. Four Fifths Jazz is a small ensemble consisting of five 
+This is a website for a fictitious jazz ensemble called Four Fifths Jazz who is based in the UK. Four Fifths Jazz is a small ensemble consisting of four 
 members who as well as writing and performing their own music cover most of the popular jazz repertoire. The main aims of the website are:
 * Promote the latest single
 * Encourage visitors/fans to book tickets to their upcoming concerts
@@ -47,7 +47,7 @@ The name and members of the ensemble have been created solely for the purpose of
 
 ### Wireframe Mockups
 
-The website is split into three pages - home, about and contact. Initial design ideas were captured using [Balsamiq](https://balsamiq.com/) and they are linked below:
+The website is split into three pages - Home, About and Contact. Initial design ideas were captured using [Balsamiq](https://balsamiq.com/) and they are linked below:
 
 * [Home Page](/assets/wireframes/HomePage.png)
 * [About Page](/assets/wireframes/AboutPage.png)
@@ -75,16 +75,16 @@ The website is split into three pages - home, about and contact. Initial design 
 ### Individual Page Features
 
 * Home Page
-    * The top two thirds of the page will feature an image of the ensemble. Over the image and positioned top the top left will some text and a link promoting the ensembles latest release on Spotify.
-    * Below the image and positioned on the center of the page will be a brief description of the ensemble detailing who they are and what they have to offer to potential clients.
+    * The Home page will feature a full screen image of the ensemble. 
+    * Positioned center top will be a link to their latest release on Spotify.
+    * Below the Spotify link and positioned in the center of the page will be a brief description of the ensemble detailing who they are and what they have to offer to potential clients.
     * At the bottom of the page will be information on any upcoming concerts. These will be split into individual containers and will reposition depending on the viewing device.
 * About Page
     * At the top of the page will be another image of the ensemble. The aim is to attract the users attention to encourage them to read more about the ensemble.
     * Below the main image will five sections providing the user will all the information they need on the enseble. These sections are:
-        * About Us - A more detailed version of the text on the home page.
-        * Ensemble Members - A bried statement from each member saying who they are etc.
+        * About Us - A more detailed version of the text on the home page. This will be a sales pitch detailing services offered (Concerts/Weddings/Parties/Corporate Events).
         * Influences - Aims to give the users a sense of the type of music they can expect from the ensemble when considering them for a booking.
-        * What We Do - A sales pitch detailing services offered (Concerts/Weddings/Parties/Corporate Events)
+        * Testimonials - Testimonials from previous clients to help encourage more people to make a booking.
         * Set List - Typical set list
 * Contact Page
     * At the top of the page will be some instructions of how to contact the enseble. This will be via the form displayed on the page or via the email link provided.
@@ -286,8 +286,12 @@ The instructions below detail the steps to deploy this website to GitHub pages:
 
 <a name="credits"></a>
 ## Credits
+
+### Content
+All written content for the site was created by the website author.
+
 ### Code
-Bootstrap navigation element
+Any code segments taken from websites/forums have been indiviually creditted in the source code.
 
 ### Media
 * Unsplash [Home Page Background Image](https://unsplash.com/photos/VAu2j8My3-0). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
@@ -297,3 +301,7 @@ Bootstrap navigation element
 * Pixabay [About Page - Ella Fitzgerald](https://pixabay.com/photos/ella-fitzgerald-portrait-1946-1275553/)
 * Iconspng [About Page - Louis Armstrong](https://www.iconspng.com/image/48640/louis-armstrong)
 * Wikipedia [About Page - Dinah Washington](https://commons.wikimedia.org/wiki/File:Dinah_Washington_1962.jpg). Credit: Associated Booking Corporation/photo by James Kriegsmann, New York
+
+#### Acknowledgements
+I would like to thank my mentor Adegbenga Adeye for his guidance throughout this project.
+I would like to thank Anna Greaves from Code Institute for the 'How to Write your README' webinar. This was a great help.
