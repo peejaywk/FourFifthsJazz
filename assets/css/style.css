@@ -62,6 +62,8 @@ p
 .navbar {
     text-align: center;
     background-color: #25261E;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 .navbar-dark .navbar-brand {
@@ -103,21 +105,21 @@ p
 .spotify-callout {
     background-color: rgba(0,0,0,0.7);
     text-align: center;
-    width: 50%;
+    width: 100%;
     border-radius: 0.3rem;
     padding: 15px;
 }
 
-
 /*---------- Jumbotron ----------*/
 .jumbotron-container {
     background-color: transparent;
-    padding-top: 15px;
-    padding-bottom: 15px;
+    width: 100%;
+    padding: 15px 0 0 0;
 }
 
 .jumbotron {
-     background-color: rgba(0,0,0,0.7);
+    background-color: rgba(0,0,0,0.7);
+    padding: 15px;
 }
 
 .jumbotron-header {
@@ -304,7 +306,7 @@ label {
     /* Align the booking button to the right of the nav bar */
     .btn-bookings {
         position: absolute;
-        margin-right: 16px;
+        margin-right: 25px;
         right: 0;
     }
 }
