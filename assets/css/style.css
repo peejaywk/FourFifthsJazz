@@ -43,7 +43,7 @@ p
 }
 
 .para-text {
-    text-align: justify;
+    text-align: left;
 }
 
 .align-left {
@@ -222,11 +222,15 @@ p
 }
 
 .form-group {
-    margin-top: 15px;
+     margin-bottom: 15px;
 }
 
 textarea {
     width: 100%
+}
+
+label {
+    margin-top: .5rem;
 }
 
 /*---------- About Section ----------*/
