@@ -11,7 +11,7 @@ members who as well as writing and performing their own music cover most of the 
 * Advertise that the ensemble is available for weddings / parties / corporate events and other private functions
 * Allow visitors/fans to learn more about the ensemble 
 
-The name and members of the ensemble have been created solely for the purpose of this project and are entirely ficticious.
+The name and members of the ensemble have been created solely for the purpose of this project and are entirely fictitious.
 
 ## Table of Contents
 
@@ -35,14 +35,14 @@ The name and members of the ensemble have been created solely for the purpose of
 
 ### User Stories
 * As a new user, I want a clear layout so I can easily navigate the site.
-* As a new user, I want to read about the band and their infuences to get a better understanding of who they are and what music they perform.
+* As a new user, I want to read about the band and their influences to get a better understanding of who they are and what music they perform.
 * As a user, I want to see when the band are next playing to I can easily book tickets.
 * As a user, I want links to the band social media accounts so I can easily stay up to date on any news.
 * As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time.
 * As a potential client, I would like contact information so I can make enquiries about booking the ensemble.
 * As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event.
 * As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify.
-* As a band member, I want to advertise up coming concerts to increase sales of tickets.
+* As a band member, I want to advertise upcoming concerts to increase sales of tickets.
 * As a band member, I want to promote the band for private hire to increase bookings.
 
 ### Wireframe Mockups
@@ -59,13 +59,13 @@ The website is split into three pages - Home, About and Contact. Initial design 
 ### Common Features Across All  Pages
 
 * Header
-    * The header will be in a fixed postion at the top of the screen and will not scroll with the page contents. This allows visitors to easily navigate the site even when they have scrolled to the bottom of a page.
+    * The header will be in a fixed position at the top of the screen and will not scroll with the page contents. This allows visitors to easily navigate the site even when they have scrolled to the bottom of a page.
     * The header will include links to all the site pages (Home, About & Contact). These will be positioned to the right of the logo.
     * On hovering over the navigation links with the mouse they will change colour indicating to the user that they are clickable (desktop only).
     * On mobile devices the navigation links will collapse into a hamburger menu.
     * The logo for the ensemble will be positioned to the left and it will also be a link back to the home page.
     * The colours have been chosen to compliment the hero image on the main page.
-    * On the right hand side of the header there will be a 'bookings' button that users can click if they want to book the ennsemble. To attract the attention of the user this will be a bold colour.
+    * On the right hand side of the header there will be a 'bookings' button that users can click if they want to book the ensemble. To attract the attention of the user this will be a bold colour.
 * Footer
     * The footer will be located at the bottom of each page and will scroll with the page contents.
     * A disclaimer will be positioned to the left of the footer stating that this website is for education purposes only.
@@ -80,20 +80,20 @@ The website is split into three pages - Home, About and Contact. Initial design 
     * Below the Spotify link and positioned in the center of the page will be a brief description of the ensemble detailing who they are and what they have to offer to potential clients.
     * At the bottom of the page will be information on any upcoming concerts. These will be split into individual containers and will reposition depending on the viewing device.
 * About Page
-    * At the top of the page will be another image of the ensemble. The aim is to attract the users attention to encourage them to read more about the ensemble.
-    * Below the main image will five sections providing the user will all the information they need on the enseble. These sections are:
+    * At the top of the page will be another image of the ensemble. The aim is to attract the user's attention to encourage them to read more about the ensemble.
+    * Below the main image will five sections providing the user will all the information they need on the ensemble. These sections are:
         * About Us - A more detailed version of the text on the home page. This will be a sales pitch detailing services offered (Concerts/Weddings/Parties/Corporate Events).
         * Influences - Aims to give the users a sense of the type of music they can expect from the ensemble when considering them for a booking.
         * Testimonials - Testimonials from previous clients to help encourage more people to make a booking.
         * Set List - Typical set list
 * Contact Page
-    * At the top of the page will be some instructions of how to contact the enseble. This will be via the form displayed on the page or via the email link provided.
-    * The contact form will be below the text and will ask for the users contact details and a description of their enquirey.
-    * Below the form will be a sumbit button.
+    * At the top of the page will be some instructions of how to contact the ensemble. This will be via the form displayed on the page or via the email link provided.
+    * The contact form will be below the text and will ask for the users contact details and a description of their enquiry.
+    * Below the form will be a submit button.
     * This page can also be accessed by clicking on the 'booking' button located in the main header.
 
 ### Colour Palette
-The colour palette for the website was deliberetly chosen to complement the background image of the Home page and to produce a warm and welcoming feel to the site. The [Adobe Color](https://color.adobe.com/create/color-wheel)
+The colour palette for the website was deliberately chosen to complement the background image of the Home page and to produce a warm and welcoming feel to the site. The [Adobe Color](https://color.adobe.com/create/color-wheel)
 tool was used to extract a suitable colour palette for the site.
 
 ![alt text](/assets/images/colour-scheme-muted.png "Colour Scheme")
@@ -102,7 +102,7 @@ Only three colours were used from the above colour palette.
 
 * #25261E - This was used for the background colour across the site. 
 * #F2E6D8 - This light pastel colour was used for the text across the whole site. This was also used to highlight the active page in the nav bar.
-* #D98841 - This was used as an accent colour for the hover items (navbar and footer) and for the borders for the Upcomiing Concerts and Testimonials.
+* #D98841 - This was used as an accent colour for the hover items (navbar and footer) and for the borders for the Upcoming Concerts and Testimonials.
 
 
 <a name="technologies"></a>
@@ -113,7 +113,7 @@ Only three colours were used from the above colour palette.
 * [GitHub](https://github.com/) was used for configuration control and to host the website.
 * [Font Awesome](https://fontawesome.com/) provided the social media icons and the icons for the concerts and set list sections.
 * [Googel Fonts](https://fonts.google.com/) provided the Roboto font that is used throughout this website.
-* [Adobe Color](https://color.adobe.com/create/color-wheel) was used to help selecting a colour palatte for the website.
+* [Adobe Color](https://color.adobe.com/create/color-wheel) was used to help selecting a colour palette for the website.
 * [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used to check/validate the CSS file.
 * [W3C Markup Validator](https://validator.w3.org/) was used to check/validate all the HTML files in this project.
 * [Autoprefixer](http://autoprefixer.github.io/) was used to add vendor prefixes to the CSS file.
@@ -127,7 +127,7 @@ Only three colours were used from the above colour palette.
 * *"As a new user, I want a clear layout so I can easily navigate the site."*
     * All pages have the same static nav bar which clearly shows what pages are available
     * The logo/text on the left of the nav bar always leads back to the home page - this is common practice and expected by users.
-* *"As a new user, I want to read about the band and their infuences to get a better understanding of who they are and what music they perform."*
+* *"As a new user, I want to read about the band and their influences to get a better understanding of who they are and what music they perform."*
     * The About page includes information for users to read that will inform them what the band have to offer, what their influences are and what type of music
     they can expect if they book the band.
 * *"As a user, I want to see when the band are next playing to I can easily book tickets."*
@@ -140,13 +140,13 @@ Only three colours were used from the above colour palette.
 * *"As a potential client, I would like contact information so I can make enquiries about booking the ensemble."*
     * As part of the nav bar there is a Booking button that will take the user to the contacts page.
     * Contact information (email address) is displayed in the footer of each page and also on the Contact page.
-    * Users can contact the band by navigating to the Contact page and competing the form.
+    * Users can contact the band by navigating to the Contact page and completing the form.
 * *"As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event."*
     * At the bottom of the About page a typical set list is available for the user to read.
 * *"As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify."*
-    * On the Home page there is a clear link as part of the jumbotron that promotes the bands latest single on Spotify.
-    * The footer on each page also has a link to the bands Spotify profile.
-* *"As a band member, I want to advertise up coming concerts to increase sales of tickets."*
+    * On the Home page there is a clear link as part of the jumbotron that promotes the band's latest single on Spotify.
+    * The footer on each page also has a link to the band's Spotify profile.
+* *"As a band member, I want to advertise upcoming concerts to increase sales of tickets."*
     * At the bottom of the home page there is a list of upcoming concerts with a link to buy tickets.
     * The About page also includes testimonials from previous clients for users to read.
 * *"As a band member, I want to promote the band for private hire to increase bookings."*
@@ -167,7 +167,7 @@ Only three colours were used from the above colour palette.
     * In mobile view click on the burger menu and verify that the drop down menu items are centered on the screen.
     * In mobile view verify that the navigation menu items in the burger menu link to the correct pages.
     * On desktop devices verify that the navigation menu is transparent and the background image can be seen through the navigation bar.
-    * On mobile devices verify that the navigation menu is opaque and that the backgroound image cannot be seen through the navigation bar.
+    * On mobile devices verify that the navigation menu is opaque and that the background image cannot be seen through the navigation bar.
 * Hero Image / Jumbotron
     * Go to the Home page from a desktop computer.
     * Confirm that the background image width and height is 100% of the screen and that it is visible behind the navigation bar.
@@ -187,7 +187,7 @@ Only three colours were used from the above colour palette.
     * Hover over each of the social media icons and verify the icon changes colour and increases in size.
     * Click on each social media link and verify it opens up the correct page in a new browser tab.
     * Hover over the email link and verify that it changes colour.
-    * Click on the email link and verify that it opens up your email client. The resposnse may vary depending on the setup of your computer.
+    * Click on the email link and verify that it opens up your email client. The response may vary depending on the setup of your computer.
 
 ### About Page Testing
 * Navigation bar
@@ -197,19 +197,19 @@ Only three colours were used from the above colour palette.
     * Go to the Home page from a desktop computer.
     * Confirm that the background image width is 100% and the height is 70% of the screen and that it is visible behind the navigation bar.
     * Verify the background image remains static when scrolling down the page.
-    * Check that the About Section is visible on the screen below the background imgae.
+    * Check that the About Section is visible on the screen below the background image.
     * Repeat the above tests on mobile and tablet devices. On mobile and tablet devices verify that background image remains fixed when scrolling down the page.
 * About Us Section
     * Verify that the text is centered on the page and scales correclty when the screen size is reduced.
-    * Verify that the images below the text are resposive and respond correctly to changes in screen size.
-    * Verify that the images are correclty positioned on all devices and screen sizes.
+    * Verify that the images below the text are responsive and respond correctly to changes in screen size.
+    * Verify that the images are correctly positioned on all devices and screen sizes.
 * Influences Section
-    * Verify that the text is centered on the page and scales correclty when the screen size is reduced.
-    * Verify that the images below the text are resposive and respond correctly to changes in screen size.
-    * Verify that the images are correclty positioned on all devices and screen sizes.
+    * Verify that the text is centered on the page and scales correctly when the screen size is reduced.
+    * Verify that the images below the text are responsive and respond correctly to changes in screen size.
+    * Verify that the images are correctly positioned on all devices and screen sizes.
 * Testimonials Section
-    * Verify that when the screen size is reduced the testimonals scale correctly and that they move into a single column on mobile devices.
-    * Verify that the text stays withing the bounding border when the screen size is reduced.
+    * Verify that when the screen size is reduced the testimonials scale correctly and that they move into a single column on mobile devices.
+    * Verify that the text stays within the bounding border when the screen size is reduced.
 * Example Set List Section
     * Reduce the screen size and verify that the set list transitions into a single list at the correct screen size.
 * Footer
@@ -221,9 +221,9 @@ Only three colours were used from the above colour palette.
     * Repeat tests detailed in the Home Page Testing section above.
     * Verify that the navbar is identical to that of the Home page.
 * Contact Us Section
-    * Verify that the form and the accomanying text are centered on the screen.
+    * Verify that the form and the accompanying text are centered on the screen.
     * Hover over the email address in the text and verify that it changes colour.
-    * Click on the email link and verify that it opens up your email client. The resposnse may vary depending on the setup of your computer.
+    * Click on the email link and verify that it opens up your email client. The response may vary depending on the setup of your computer.
     * Without completing any of the form click on the "Send" button and verify that an error message appears asking you to fill in the required fields.
     * Verify that the appropriate text can be entered into each field of the form.
     * Repeat the tests on mobile and tablet devices.
@@ -242,14 +242,14 @@ On investigation the label was in the wrong element - it was in the *i* element 
 The validation tool also highlighted an empty heading - this heading was removed from the code.
 
 #### About Page ([W3C Validation Report](assets/documents/testing/AboutPageNu-HtmlChecker.pdf))
-Contained the same warnings as seen when testing the home page - the footer code was common across all pages. Applied the same corrections as detailed above.
+Contained the same warnings as seen when testing the home page - the footer code was common across all pages. Applied the same corrections as detailed above to remove the warnings.
 
 #### Contact Page ([W3C Validation Report](assets/documents/testing/ContactPageNu-HtmlChecker.pdf))
-Reported an error with a bad value for the name attribute on the text area element. A blank name was causing this error. Corrected by giving the name attribute a value.
+The HTML Validator reported an error with a bad value for the name attribute on the text area element. A blank name was causing this error - this was corrected by giving the name attribute a value.
 
 ### CSS Validation
 To validate the CSS the online [W3C CSS Validator](https://jigsaw.w3.org/css-validator/) was used. The tool highlighted an error with one of the media queries using
-a depricated feature. The report can be found [here](assets/documents/testing/W3C-CSS-ValidatorResults.pdf). To fix the issue the depricated media feature
+a deprecated feature. The report can be found [here](assets/documents/testing/W3C-CSS-ValidatorResults.pdf). To fix the issue the deprecated media feature
 "max-device-width" was changed to "max-width".
 
 <a name="bugs"></a>
@@ -304,4 +304,5 @@ Any code segments taken from websites/forums have been indiviually creditted in 
 
 #### Acknowledgements
 I would like to thank my mentor Adegbenga Adeye for his guidance throughout this project.
+
 I would like to thank Anna Greaves from Code Institute for the 'How to Write your README' webinar. This was a great help.
