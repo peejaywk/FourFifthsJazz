@@ -214,6 +214,19 @@ p
     margin-top: 20px;
 }
 
+.concert-item {
+    clear: both;
+}
+
+.concert-key {
+    display: inline-block;
+    width: 40%;
+}
+
+.concert-value {
+    display: inline-block;
+}
+
 /*---------- Contact Container ----------*/
 .contact-container {
     position: relative;
