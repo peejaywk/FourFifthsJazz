@@ -252,6 +252,13 @@ To validate the CSS the online [W3C CSS Validator](https://jigsaw.w3.org/css-val
 a deprecated feature. The report can be found [here](assets/documents/testing/W3C-CSS-ValidatorResults.pdf). To fix the issue the deprecated media feature
 "max-device-width" was changed to "max-width".
 
+### Lighthouse Report
+Google Lighthouse was used to check the Performance, Accessibility, Best Practices and Search Engine Optimisation of the website.
+The reports for the three pages are linked below.
+* [Lighthouse Report - Home Page](/assets/documents/testing/LightHouseReport-Index.pdf)
+* [Lighthouse Report - About Page](/assets/documents/testing/LightHouseReport-About.pdf)
+* [Lighthouse Report - Contact Page](/assets/documents/testing/LightHouseReport-Contact.pdf)
+
 <a name="bugs"></a>
 ## Bugs / Issues
 
