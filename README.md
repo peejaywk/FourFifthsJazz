@@ -34,13 +34,16 @@ The name and members of the ensemble have been created solely for the purpose of
 ## User Experience (UX)
 
 ### User Stories
+#### New Users
 * As a new user, I want a clear layout so I can easily navigate the site.
 * As a new user, I want to read about the band and their influences to get a better understanding of who they are and what music they perform.
 * As a user, I want to see when the band are next playing to I can easily book tickets.
 * As a user, I want links to the band social media accounts so I can easily stay up to date on any news.
 * As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time.
+#### Potential Clients
 * As a potential client, I would like contact information so I can make enquiries about booking the ensemble.
 * As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event.
+#### Band Members
 * As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify.
 * As a band member, I want to advertise upcoming concerts to increase sales of tickets.
 * As a band member, I want to promote the band for private hire to increase bookings.
@@ -124,6 +127,7 @@ Only three colours were used from the above colour palette.
 ## Testing
 
 ### User Story Testing
+#### New Users
 * *"As a new user, I want a clear layout so I can easily navigate the site."*
     * All pages have the same static nav bar which clearly shows what pages are available
     * The logo/text on the left of the nav bar always leads back to the home page - this is common practice and expected by users.
@@ -137,12 +141,14 @@ Only three colours were used from the above colour palette.
 * *"As a user, I want links to any music released on popular streaming platforms so I can listen to their music in my own time."*
     * On the Home page there is a clear link as part of the jumbotron that promotes the bands latest single on Spotify.
     * The footer on each page also has a link to the bands Spotify profile.
+#### Potential Clients
 * *"As a potential client, I would like contact information so I can make enquiries about booking the ensemble."*
     * As part of the nav bar there is a Booking button that will take the user to the contacts page.
     * Contact information (email address) is displayed in the footer of each page and also on the Contact page.
     * Users can contact the band by navigating to the Contact page and completing the form.
 * *"As a potential client, I would like to see a typical set list so I can see if it would be suitable for my event."*
     * At the bottom of the About page a typical set list is available for the user to read.
+#### Band Members
 * *"As a band member, I want to promote our latest single to increase the number of downloads/listens on Spotify."*
     * On the Home page there is a clear link as part of the jumbotron that promotes the band's latest single on Spotify.
     * The footer on each page also has a link to the band's Spotify profile.
@@ -299,6 +305,7 @@ All written content for the site was created by the website author.
 
 ### Code
 Any code segments taken from websites/forums have been indiviually creditted in the source code.
+* [W3Schools - How To Create Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 ### Media
 * Unsplash [Home Page Background Image](https://unsplash.com/photos/VAu2j8My3-0). Credit: [Sam Browne](https://unsplash.com/@samjbrowne)
@@ -313,3 +320,5 @@ Any code segments taken from websites/forums have been indiviually creditted in 
 I would like to thank my mentor Adegbenga Adeye for his guidance throughout this project.
 
 I would like to thank Anna Greaves from Code Institute for the 'How to Write your README' webinar. This was a great help.
+
+I would like to thanks the members of the Slack community who provided feedback on my project in the peer-code-review section.
