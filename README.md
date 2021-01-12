@@ -296,6 +296,28 @@ The instructions below detail the steps to deploy this website to GitHub pages:
 6. The page is automatically refreshed on selecting Master Branch. The website is now deployed to Github pages.
 7. Scroll back down to the **GitHub Pages** section and copy the link to the deployed website. **Note:** it can take several minutes for the site to be deployed by GitHub.
 
+### How to run this project locally
+
+To clone this project into Gitpod you will need the following:
+1. A Github account. Create one [here](https://github.com/).
+2. Installation of Chrome browser.
+
+Then follow the following steps:
+1. Install the [Gitpod Browser Extension](https://www.gitpod.io/docs/browser-extension/) for Chrome.
+2. After instllation, restart the browser.
+3. Log into [Gitpod](https://www.gitpod.io/) using your GitHub credentials.
+4. In Github navigate to the [project repository](https://github.com/peejaywk/FourFifthsJazz).
+5. Click the green "Gitpod" button in the top right corner of the repository.
+6. This will create a new Gitpod workspace from the Github repository for you to work on.
+
+To work on the project within a local IDE follow these steps:
+1. Navigate to the [Github repository](https://github.com/peejaywk/FourFifthsJazz).
+2. At the top of the screen click on the "Code" button.
+3. Fron the drop down menu copy the link in the HTTPS section.
+4. In your local IDE open a terminal window.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type 'git clone' and then paste in the URL copied in Step 3.
+7. Press Enter. This will create a clone within your local IDE.
 
 <a name="credits"></a>
 ## Credits
@@ -304,7 +326,7 @@ The instructions below detail the steps to deploy this website to GitHub pages:
 All written content for the site was created by the website author.
 
 ### Code
-Any code segments taken from websites/forums have been indiviually creditted in the source code.
+Any code segments taken from websites/forums have been indiviually credited in the source code.
 * [W3Schools - How To Create Parallax](https://www.w3schools.com/howto/howto_css_parallax.asp)
 
 ### Media
@@ -317,8 +339,6 @@ Any code segments taken from websites/forums have been indiviually creditted in 
 * Wikipedia [About Page - Dinah Washington](https://commons.wikimedia.org/wiki/File:Dinah_Washington_1962.jpg). Credit: Associated Booking Corporation/photo by James Kriegsmann, New York
 
 #### Acknowledgements
-I would like to thank my mentor Adegbenga Adeye for his guidance throughout this project.
-
-I would like to thank Anna Greaves from Code Institute for the 'How to Write your README' webinar. This was a great help.
-
-I would like to thanks the members of the Slack community who provided feedback on my project in the peer-code-review section.
+* I would like to thank my mentor Adegbenga Adeye for his guidance throughout this project.
+* I would like to thank Anna Greaves from Code Institute for the 'How to Write your README' webinar. This was a great help.
+* I would like to thanks the members of the Slack community who provided feedback on my project in the peer-code-review section.
